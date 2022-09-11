@@ -1,2 +1,3 @@
 # testimonial-grid
-Project made using Tailwind CSS.
+
+This is a testimonial grid that I made while learning TailwindCSS. It is responsive and looks good on all devices.
